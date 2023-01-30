@@ -632,6 +632,24 @@
     "/caijing/roll": [
         "TonyRL"
     ],
+    "/caixin/article": [
+        "EsuRt"
+    ],
+    "/caixin/blog/:column": [
+        "Maecenas"
+    ],
+    "/caixin/database": [
+        "nczitzk"
+    ],
+    "/caixin/k": [
+        "boypt"
+    ],
+    "/caixin/latest": [
+        "tpnonthealps"
+    ],
+    "/caixin/:column/:category": [
+        "idealclover"
+    ],
     "/cankaoxiaoxi/news/:category": [
         "yuxinliu-alex"
     ],
@@ -742,6 +760,9 @@
     ],
     "/clash/premium": [
         "ttttmr"
+    ],
+    "/clickme/:site/:grouping/:name": [
+        "hoilc"
     ],
     "/cmde/:cate*": [
         "run-ze"
@@ -978,6 +999,12 @@
     ],
     "/distill/": [
         "nczitzk"
+    ],
+    "/dlsite/campaign/:type/:free?": [
+        "cssxsh"
+    ],
+    "/dlsite/new/:type": [
+        "cssxsh"
     ],
     "/dmzj/news/:category?": [
         "vzz64"
@@ -1338,6 +1365,9 @@
     "/fisher-spb/news": [
         "denis-ya"
     ],
+    "/fjksbm/:category?": [
+        "nczitzk"
+    ],
     "/flyert/preferential": [
         "howel52"
     ],
@@ -1506,6 +1536,9 @@
     ],
     "/github/user/followers/:user": [
         "HenryQW"
+    ],
+    "/github/wiki/:user/:repo/:page?": [
+        "TonyRL"
     ],
     "/gitpod/blog": [
         "TonyRL"
@@ -1755,6 +1788,9 @@
     "/gov/taiyuan/rsj/:caty/:page?": [
         "2PoL"
     ],
+    "/gov/wuhan/sy/whyw": [
+        "nczitzk"
+    ],
     "/gov/xinyi/:path+": [
         "ShuiHuo"
     ],
@@ -1979,6 +2015,9 @@
         "TonyRL"
     ],
     "/hkjunkcall/": [
+        "nczitzk"
+    ],
+    "/hljucm/yjsy/:category?": [
         "nczitzk"
     ],
     "/hnrb/:id?": [
@@ -2502,6 +2541,9 @@
     "/kcna/:lang/:category?": [
         "Rongronggg9"
     ],
+    "/ke/researchResults": [
+        "shaomingbo"
+    ],
     "/keep/user/:id": [
         "Dectinc",
         "DIYgod"
@@ -2598,6 +2640,9 @@
     ],
     "/line/today/:edition?/:tab?": [
         "nczitzk"
+    ],
+    "/linkedin/cn/jobs/:keywords?": [
+        "bigfei"
     ],
     "/linkedin/jobs": [
         "BrandNewLifeJackie26"
@@ -2740,6 +2785,9 @@
     "/mindmeister/:category?/:language?": [
         "TonyRL"
     ],
+    "/minecraft/version": [
+        "TheresaQWQ"
+    ],
     "/mingpao/:type?/:category?": [
         "TonyRL"
     ],
@@ -2750,6 +2798,9 @@
         "fifteen42",
         "rde9",
         "nczitzk"
+    ],
+    "/mixcloud/:username/:type?": [
+        "Misaka13514"
     ],
     "/mobilism/forums/:category/:type/:fulltext?": [
         "nitezs"
@@ -3569,16 +3620,16 @@
     "/rsshub/rsshub/sponsors": [
         "DIYgod"
     ],
-    "/ruancan/ruancan": [
-        "nczitzk"
-    ],
-    "/ruancan/ruancan/sort/:sort?": [
-        "nczitzk"
-    ],
-    "/ruancan/ruancan/tag/:tag": [
+    "/ruancan/ruancan/category/:category?": [
         "nczitzk"
     ],
     "/ruancan/ruancan/search/:keyword?": [
+        "nczitzk"
+    ],
+    "/ruancan/ruancan/user/:id": [
+        "nczitzk"
+    ],
+    "/ruancan/ruancan": [
         "nczitzk"
     ],
     "/ruc/hr/:category?": [
@@ -5007,11 +5058,6 @@
     "/bjnews/epaper/:cat": [],
     "/mihoyo/bh3/:type": [],
     "/mihoyo/bh2/:type": [],
-    "/caixin/blog/:column": [],
-    "/caixin/article": [],
-    "/caixin/database": [],
-    "/caixin/yxnews": [],
-    "/caixin/:column/:category": [],
     "/t66y/post/:tid": [],
     "/t66y/:id/:type?": [],
     "/sexinsex/:id/:type?": [],
@@ -5618,8 +5664,6 @@
     "/pnas/:topic?": [],
     "/cell/cell/:category": [],
     "/cell/cover": [],
-    "/dlsite/new/:type": [],
-    "/dlsite/campaign/:type/:free?": [],
     "/mcbbs/forum/:type": [],
     "/mcbbs/post/:tid/:authorid?": [],
     "/pocket/trending": [],
@@ -5632,7 +5676,6 @@
     "/gov/cnca/jgdt": [],
     "/gov/cnca/hydt": [],
     "/gov/cnca/zxtz": [],
-    "/clickme/:site/:grouping/:name": [],
     "/whb/:category": [],
     "/3ycy/home": [],
     "/emi-nitta/:type": [],
@@ -5690,7 +5733,6 @@
     "/chinadialogue/:column": [],
     "/ifnews/:cid": [],
     "/scala/blog/:part?": [],
-    "/minecraft/version": [],
     "/weixin/miniprogram/release": [],
     "/weixin/miniprogram/framework": [],
     "/weixin/miniprogram/devtools": [],
@@ -6116,7 +6158,6 @@
     "/yuanliao/:tag?/:sort?": [],
     "/cppcc/:slug?": [],
     "/nace/blog/:sort?": [],
-    "/caixin/latest": [],
     "/semiconductors/latest-news": [],
     "/voa/day-photos": [],
     "/voa/:language/:channel?": [],

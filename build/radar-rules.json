@@ -37,11 +37,11 @@
     ]
   },
   "18comic.org": {
-    "_name": "18comic 禁漫天堂",
+    "_name": "禁漫天堂",
     ".": [
       {
         "title": "成人 A 漫",
-        "docs": "https://docs.rsshub.app/anime.html#18comic-jin-man-tian-tang-cheng-ren-a-man",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-cheng-ren-a-man",
         "source": [
           "/"
         ],
@@ -49,7 +49,7 @@
       },
       {
         "title": "搜索",
-        "docs": "https://docs.rsshub.app/anime.html#18comic-jin-man-tian-tang-sou-suo",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-sou-suo",
         "source": [
           "/"
         ],
@@ -57,7 +57,7 @@
       },
       {
         "title": "专辑",
-        "docs": "https://docs.rsshub.app/anime.html#18comic-jin-man-tian-tang-zhuan-ji",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-zhuan-ji",
         "source": [
           "/"
         ],
@@ -65,7 +65,229 @@
       },
       {
         "title": "文庫",
-        "docs": "https://docs.rsshub.app/anime.html#18comic-jin-man-tian-tang-wen-ku",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-wen-ku",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/blogs/:category?"
+      }
+    ]
+  },
+  "18comic.vip": {
+    "_name": "禁漫天堂",
+    ".": [
+      {
+        "title": "成人 A 漫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-cheng-ren-a-man",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/:category?/:time?/:order?/:keyword?"
+      },
+      {
+        "title": "搜索",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-sou-suo",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/search/:option?/:category?:keyword?/:time?/:order?"
+      },
+      {
+        "title": "专辑",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-zhuan-ji",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/album/:id"
+      },
+      {
+        "title": "文庫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-wen-ku",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/blogs/:category?"
+      }
+    ]
+  },
+  "jmcomic.me": {
+    "_name": "禁漫天堂",
+    ".": [
+      {
+        "title": "成人 A 漫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-cheng-ren-a-man",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/:category?/:time?/:order?/:keyword?"
+      },
+      {
+        "title": "搜索",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-sou-suo",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/search/:option?/:category?:keyword?/:time?/:order?"
+      },
+      {
+        "title": "专辑",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-zhuan-ji",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/album/:id"
+      },
+      {
+        "title": "文庫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-wen-ku",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/blogs/:category?"
+      }
+    ]
+  },
+  "jmcomic1.me": {
+    "_name": "禁漫天堂",
+    ".": [
+      {
+        "title": "成人 A 漫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-cheng-ren-a-man",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/:category?/:time?/:order?/:keyword?"
+      },
+      {
+        "title": "搜索",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-sou-suo",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/search/:option?/:category?:keyword?/:time?/:order?"
+      },
+      {
+        "title": "专辑",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-zhuan-ji",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/album/:id"
+      },
+      {
+        "title": "文庫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-wen-ku",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/blogs/:category?"
+      }
+    ]
+  },
+  "jmcomic.rocks": {
+    "_name": "禁漫天堂",
+    ".": [
+      {
+        "title": "成人 A 漫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-cheng-ren-a-man",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/:category?/:time?/:order?/:keyword?"
+      },
+      {
+        "title": "搜索",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-sou-suo",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/search/:option?/:category?:keyword?/:time?/:order?"
+      },
+      {
+        "title": "专辑",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-zhuan-ji",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/album/:id"
+      },
+      {
+        "title": "文庫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-wen-ku",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/blogs/:category?"
+      }
+    ]
+  },
+  "jmcomic1.rocks": {
+    "_name": "禁漫天堂",
+    ".": [
+      {
+        "title": "成人 A 漫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-cheng-ren-a-man",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/:category?/:time?/:order?/:keyword?"
+      },
+      {
+        "title": "搜索",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-sou-suo",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/search/:option?/:category?:keyword?/:time?/:order?"
+      },
+      {
+        "title": "专辑",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-zhuan-ji",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/album/:id"
+      },
+      {
+        "title": "文庫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-wen-ku",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/blogs/:category?"
+      }
+    ]
+  },
+  "jmcomic.group": {
+    "_name": "禁漫天堂",
+    ".": [
+      {
+        "title": "成人 A 漫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-cheng-ren-a-man",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/:category?/:time?/:order?/:keyword?"
+      },
+      {
+        "title": "搜索",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-sou-suo",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/search/:option?/:category?:keyword?/:time?/:order?"
+      },
+      {
+        "title": "专辑",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-zhuan-ji",
+        "source": [
+          "/"
+        ],
+        "target": "/18comic/album/:id"
+      },
+      {
+        "title": "文庫",
+        "docs": "https://docs.rsshub.app/anime.html#jin-man-tian-tang-wen-ku",
         "source": [
           "/"
         ],
@@ -2406,6 +2628,57 @@
       }
     ]
   },
+  "caixin.com": {
+    "_name": "财新网",
+    ".": [
+      {
+        "title": "新闻分类",
+        "docs": "https://docs.rsshub.app/traditional-media.html#cai-xin-wang"
+      },
+      {
+        "title": "首页新闻",
+        "docs": "https://docs.rsshub.app/traditional-media.html#cai-xin-wang",
+        "source": [
+          "/"
+        ],
+        "target": "/caixin/article"
+      },
+      {
+        "title": "最新文章",
+        "docs": "https://docs.rsshub.app/traditional-media.html#cai-xin-wang",
+        "source": [
+          "/"
+        ],
+        "target": "/caixin/latest"
+      },
+      {
+        "title": "用户博客",
+        "docs": "https://docs.rsshub.app/blog.html#cai-xin-bo-ke"
+      }
+    ],
+    "database": [
+      {
+        "title": "财新数据通",
+        "docs": "https://docs.rsshub.app/traditional-media.html#cai-xin-wang",
+        "source": [
+          "/news",
+          "/"
+        ],
+        "target": "/caixin/database"
+      }
+    ],
+    "k": [
+      {
+        "title": "财新一线",
+        "docs": "https://docs.rsshub.app/traditional-media.html#cai-xin-wang",
+        "source": [
+          "/web",
+          "/"
+        ],
+        "target": "/caixin/database"
+      }
+    ]
+  },
   "cankaoxiaoxi.com": {
     "_name": "参考消息",
     "china": [
@@ -2906,6 +3179,15 @@
     "_name": "GitHub",
     ".": [
       {
+        "title": "仓库 Branches",
+        "docs": "https://docs.rsshub.app/programming.html#github",
+        "source": [
+          "/:user/:repo/branches",
+          "/:user/:repo"
+        ],
+        "target": "/github/branches/:user/:repo"
+      },
+      {
         "title": "Issues / Pull Requests 评论",
         "docs": "https://docs.rsshub.app/programming.html#github",
         "source": [
@@ -2914,28 +3196,19 @@
         "target": "/github/comments/:user/:repo/:number"
       },
       {
-        "title": "用户仓库",
+        "title": "仓库 Contributors",
         "docs": "https://docs.rsshub.app/programming.html#github",
-        "source": "/:user",
-        "target": "/github/repos/:user"
+        "source": [
+          "/:user/:repo/graphs/contributors",
+          "/:user/:repo"
+        ],
+        "target": "/github/contributors/:user/:repo"
       },
       {
-        "title": "用户 Followers",
+        "title": "文件 Commits",
         "docs": "https://docs.rsshub.app/programming.html#github",
-        "source": "/:user",
-        "target": "/github/user/followers/:user"
-      },
-      {
-        "title": "Trending",
-        "docs": "https://docs.rsshub.app/programming.html#github",
-        "source": "/trending",
-        "target": "/github/trending/:since"
-      },
-      {
-        "title": "Trending",
-        "docs": "https://docs.rsshub.app/programming.html#github",
-        "source": "/topics",
-        "target": "/github/topics/:name/:qs?"
+        "source": "/:user/:repo/blob/:branch/*filepath",
+        "target": "/github/file/:user/:repo/:branch/:filepath"
       },
       {
         "title": "仓库 Issue",
@@ -2958,6 +3231,12 @@
         "target": "/github/pull/:user/:repo"
       },
       {
+        "title": "用户仓库",
+        "docs": "https://docs.rsshub.app/programming.html#github",
+        "source": "/:user",
+        "target": "/github/repos/:user"
+      },
+      {
         "title": "仓库 Stars",
         "docs": "https://docs.rsshub.app/programming.html#github",
         "source": [
@@ -2967,34 +3246,60 @@
         "target": "/github/stars/:user/:repo"
       },
       {
-        "title": "仓库 Branches",
-        "docs": "https://docs.rsshub.app/programming.html#github",
-        "source": [
-          "/:user/:repo/branches",
-          "/:user/:repo"
-        ],
-        "target": "/github/branches/:user/:repo"
-      },
-      {
-        "title": "文件 Commits",
-        "docs": "https://docs.rsshub.app/programming.html#github",
-        "source": "/:user/:repo/blob/:branch/*filepath",
-        "target": "/github/file/:user/:repo/:branch/:filepath"
-      },
-      {
         "title": "用户 Starred Repositories",
         "docs": "https://docs.rsshub.app/programming.html#github",
         "source": "/:user",
         "target": "/github/starred_repos/:user"
       },
       {
-        "title": "仓库 Contributors",
+        "title": "Topics",
+        "docs": "https://docs.rsshub.app/programming.html#github",
+        "source": "/topics",
+        "target": "/github/topics/:name/:qs?"
+      },
+      {
+        "title": "Trending",
+        "docs": "https://docs.rsshub.app/programming.html#github",
+        "source": "/trending",
+        "target": "/github/trending/:since"
+      },
+      {
+        "title": "用户 Followers",
+        "docs": "https://docs.rsshub.app/programming.html#github",
+        "source": "/:user",
+        "target": "/github/user/followers/:user"
+      },
+      {
+        "title": "Wiki 历史",
         "docs": "https://docs.rsshub.app/programming.html#github",
         "source": [
-          "/:user/:repo/graphs/contributors",
-          "/:user/:repo"
+          "/:user/:repo/wiki/:page/_history",
+          "/:user/:repo/wiki/:page",
+          "/:user/:repo/wiki/_history",
+          "/:user/:repo/wiki"
         ],
-        "target": "/github/contributors/:user/:repo"
+        "target": "/github/wiki/:user/:repo/:page"
+      }
+    ]
+  },
+  "clickme.net": {
+    "_name": "ClickMe",
+    ".": [
+      {
+        "title": "文章",
+        "docs": "https://docs.rsshub.app/other.html#clickme",
+        "source": [
+          "/:grouping/:name"
+        ]
+      }
+    ],
+    "r18": [
+      {
+        "title": "文章",
+        "docs": "https://docs.rsshub.app/other.html#clickme",
+        "source": [
+          "/:grouping/:name"
+        ]
       }
     ]
   },
@@ -3912,6 +4217,19 @@
           "/"
         ],
         "target": "/distill"
+      }
+    ]
+  },
+  "dlsite.com": {
+    "_name": "DLsite",
+    ".": [
+      {
+        "title": "当前日期发售的新产品",
+        "docs": "https://docs.rsshub.app/anime.html#dlsite"
+      },
+      {
+        "title": "产品打折信息",
+        "docs": "https://docs.rsshub.app/anime.html#dlsite"
       }
     ]
   },
@@ -5337,6 +5655,20 @@
       }
     ]
   },
+  "fjksbm.com": {
+    "_name": "福建考试报名网",
+    ".": [
+      {
+        "title": "分类",
+        "docs": "https://docs.rsshub.app/study.html#fu-jian-kao-shi-bao-ming-wang",
+        "source": [
+          "/portal/:category?",
+          "/portal"
+        ],
+        "target": "/fjksbm/:category?"
+      }
+    ]
+  },
   "flyert.com": {
     "_name": "飞客茶馆",
     ".": [
@@ -5711,11 +6043,28 @@
         ]
       },
       {
+        "title": "最热文章",
+        "docs": "https://docs.rsshub.app/finance.html#ge-long-hui",
+        "source": [
+          "/"
+        ],
+        "target": "/gelonghui/hot-article"
+      },
+      {
         "title": "搜索关键字",
         "docs": "https://docs.rsshub.app/finance.html#ge-long-hui",
         "source": [
           "/search"
         ]
+      },
+      {
+        "title": "实时快讯",
+        "docs": "https://docs.rsshub.app/finance.html#ge-long-hui",
+        "source": [
+          "/live",
+          "/"
+        ],
+        "target": "/gelonghui/live"
       },
       {
         "title": "主题文章",
@@ -6903,6 +7252,21 @@
       }
     ]
   },
+  "wuhan.gov.cn": {
+    "_name": "武汉市人民政府",
+    ".": [
+      {
+        "title": "武汉要闻",
+        "docs": "https://docs.rsshub.app/government.html#zhong-guo-zheng-fu-wang",
+        "source": [
+          "/sy/whyw/",
+          "/whyw",
+          "/"
+        ],
+        "target": "/gov/wuhan/sy/whyw"
+      }
+    ]
+  },
   "xz.gov.cn": {
     "_name": "徐州市人民政府",
     "hrss": [
@@ -7695,6 +8059,19 @@
           "/"
         ],
         "target": "/hkjunkcall"
+      }
+    ]
+  },
+  "hljucm.net": {
+    "_name": "黑龙江中医药大学",
+    "yjsy": [
+      {
+        "title": "研究生院",
+        "docs": "https://docs.rsshub.app/university.html#hei-long-jiang-zhong-yi-yao-da-xue",
+        "source": [
+          "/index/:category",
+          "/index"
+        ]
       }
     ]
   },
@@ -10247,6 +10624,19 @@
       }
     ]
   },
+  "research.ke.com": {
+    "_name": "贝壳研究院 - 房地产行业研究报告",
+    "www": [
+      {
+        "title": "研究成果",
+        "docs": "https://docs.rsshub.app/other.html#bei-ke-yan-jiu-yuan",
+        "source": [
+          "/researchResults"
+        ],
+        "target": "/researchResults"
+      }
+    ]
+  },
   "gotokeep.com": {
     "_name": "Keep",
     ".": [
@@ -10644,12 +11034,22 @@
     ]
   },
   "linkedin.com": {
-    "_name": "linkedin",
+    "_name": "LinkedIn",
     ".": [
       {
         "title": "Job Listing",
         "docs": "https://docs.rsshub.app/en/other.html#linkedin-jobs",
         "source": "/jobs/search/"
+      }
+    ]
+  },
+  "linkedin.cn": {
+    "_name": "LinkedIn 领英中国",
+    ".": [
+      {
+        "title": "Jobs",
+        "docs": "https://docs.rsshub.app/other.html#linkedin-ling-ying-zhong-guo",
+        "source": "/incareer/jobs/search"
       }
     ]
   },
@@ -11383,6 +11783,19 @@
       }
     ]
   },
+  "minecraft.net": {
+    "_name": "我的世界",
+    ".": [
+      {
+        "title": "Java 版游戏更新",
+        "docs": "https://docs.rsshub.app/game.html#minecraft",
+        "source": [
+          "/"
+        ],
+        "target": "/minecraft/version"
+      }
+    ]
+  },
   "mingpao.com": {
     "_name": "明报",
     ".": [
@@ -11443,6 +11856,27 @@
         "source": [
           "/:id",
           "/"
+        ]
+      }
+    ]
+  },
+  "mixcloud.com": {
+    "_name": "Mixcloud",
+    "www": [
+      {
+        "title": "User",
+        "docs": "https://docs.rsshub.app/multimedia.html#mixcloud",
+        "source": [
+          "/:username/:type?"
+        ]
+      }
+    ],
+    ".": [
+      {
+        "title": "User",
+        "docs": "https://docs.rsshub.app/multimedia.html#mixcloud",
+        "source": [
+          "/:username/:type?"
         ]
       }
     ]
@@ -14624,19 +15058,26 @@
         "title": "分类",
         "docs": "https://docs.rsshub.app/new-media.html#ruan-can-fen-lei",
         "source": [
-          "/sort/:sort",
+          "/cat/:category",
           "/"
         ],
-        "target": "/ruancan/sort/:sort"
+        "target": "/ruancan/category/:category"
       },
       {
-        "title": "标签",
-        "docs": "https://docs.rsshub.app/new-media.html#ruan-can-biao-qian",
+        "title": "搜索",
+        "docs": "https://docs.rsshub.app/new-media.html#ruan-can-sou-suo",
         "source": [
-          "/tag/:tag",
+          "/"
+        ]
+      },
+      {
+        "title": "用户文章",
+        "docs": "https://docs.rsshub.app/new-media.html#ruan-can-yong-hu-wen-zhang",
+        "source": [
+          "/i/:id",
           "/"
         ],
-        "target": "/ruancan/tag/:tag"
+        "target": "/ruancan/user/:id"
       }
     ]
   },
