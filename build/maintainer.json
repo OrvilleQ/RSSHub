@@ -888,6 +888,9 @@
     "/chaping/newsflash": [
         "Fatpandac"
     ],
+    "/chiculture/topic/:category?": [
+        "nczitzk"
+    ],
     "/china/news/military": [
         "jiaaoMario"
     ],
@@ -917,6 +920,9 @@
     ],
     "/chinaventure/news/:id?": [
         "yuxinliu-alex"
+    ],
+    "/chsi/hotnews": [
+        "yanbot-team"
     ],
     "/chsi/kydt": [
         "SunBK201"
@@ -1665,6 +1671,9 @@
     "/gcores/category/:category": [
         "MoguCloud",
         "StevenRCE0"
+    ],
+    "/gcores/radios/:category?": [
+        "eternasuno"
     ],
     "/gcores/tag/:tag/:category?": [
         "StevenRCE0"
@@ -3211,6 +3220,12 @@
         "nczitzk"
     ],
     "/newsmarket/:category?": [
+        "nczitzk"
+    ],
+    "/newzmz/:category?": [
+        "nczitzk"
+    ],
+    "/newzmz/view/:id?": [
         "nczitzk"
     ],
     "/nextapple/realtime/:category?": [
@@ -6623,10 +6638,7 @@
     "/feed-the-beast/modpack/:modpackEntry": [],
     "/gab/user/:username": [],
     "/gab/popular/:sort?": [],
-    "/newzmz/view/:id": [],
-    "/newzmz/:category?": [],
     "/phrack": [],
-    "/chiculture/topic/:category?": [],
     "/cqut/news": [],
     "/cqut/libnews": [],
     "/growincity/news/:id?": [],
